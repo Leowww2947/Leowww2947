@@ -10,7 +10,7 @@ const midudev = {
   ``` 
   
   You can find me 🌎:
-  - Blog
+  - Blog Developing
 <!--
 **Leowww2947/Leowww2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
