@@ -1,4 +1,4 @@
-### Hi I'm Stravak
+### Hi I'm Stravak 👨‍💻
 
 ![Sttravak](https://user-images.githubusercontent.com/89705306/148451088-9218ac52-0d2e-4fe8-a533-fe268cc36614.png)
 
