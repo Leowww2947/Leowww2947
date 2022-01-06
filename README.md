@@ -3,17 +3,13 @@
 
 
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Leowww2947_icons=true&count_private=true&theme=dark" width="350"></a>
-  </p>
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Leowww2947&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leowww2947&theme=tokyonight&layout=compact&hide_border=true" />
+</div>
 
 
-```js
-const midudev = {
-  techologies: 'Web',
-  passions: ['performance web', 'web development']
-  }
-  ``` 
+
 
   <h1 align="center"> Contacts</h1>
   <p align="center">
