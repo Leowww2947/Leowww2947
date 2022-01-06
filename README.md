@@ -22,6 +22,9 @@ const midudev = {
       <a href="https://discord.gg/8PZeVXfb"/>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
       </a>
+      <a href="https://www.instagram.com/leo_2003h/" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
   
 <!--
 **Leowww2947/Leowww2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
