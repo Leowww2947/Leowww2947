@@ -25,6 +25,10 @@ const midudev = {
   <p align="center">
     <a href="https://www.instagram.com/leo_2003h" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.tiktok.com/@stravak" />
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+   <a href="https://twitter.com/stravakht" />
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   
   
 <!--
