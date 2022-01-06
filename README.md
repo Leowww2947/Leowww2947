@@ -13,7 +13,7 @@ const midudev = {
   }
   ``` 
 
-  
+  <h1 align="center"> Contacts</h1>
   <p align="center">
    <a href="https://t.me/stravak"/>
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
