@@ -76,8 +76,16 @@ const midudev = {
    <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+   </p>
    
-   
+   <h1 align="center"> Workspace Spec</h1>
+   <p align="center">
+  <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  </p>
+  
+  
+  
 <!--
 **Leowww2947/Leowww2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
