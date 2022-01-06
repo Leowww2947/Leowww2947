@@ -2,6 +2,15 @@
 
 ![Sttravak](https://user-images.githubusercontent.com/89705306/148451088-9218ac52-0d2e-4fe8-a533-fe268cc36614.png)
 
+```js
+const midudev = {
+  techologies: 'Web',
+  passions: ['performance web', 'web development']
+  }
+  ``` 
+  
+  You can find me 🌎:
+  - Blog
 <!--
 **Leowww2947/Leowww2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
