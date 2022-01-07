@@ -5,13 +5,13 @@
 
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Leowww2947&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowww2947&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
 </div>
 
 
 ### 📱 About Me
 
-h1 align="center"> Social Networks</h1>
-  <p align="center">
+  <p>
     <a href="https://www.instagram.com/leo_2003h" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a href="https://www.tiktok.com/@stravak" />
@@ -35,38 +35,16 @@ h1 align="center"> Social Networks</h1>
 | **Operating Systems** | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
 | **Browsers** | ![Naver](https://img.shields.io/static/v1?style=for-the-badge&message=Naver&color=222222&logo=Naver&logoColor=03C75A&label=) ![Firefox](https://img.shields.io/static/v1?style=for-the-badge&message=Firefox&color=FF7139&logo=Firefox&logoColor=FFFFFF&label=) |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowww2947&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
 
-  
+ ## <img src="https://img.icons8.com/ios/50/000000/fsociety-mask.png"/> Platforms
+---
+| **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
+:--- | :---
+| **Bug Bounty** | ![Bugcrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Bugcrowd&color=F26822&logo=Bugcrowd&logoColor=FFFFFF&label=) ![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=) |
 
-  
-  <h1 align="center"> Web Browsers</h1>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-  </p>
-    
-   <h1 align="center"> IDE</h1>
-   <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-   </p>
-   
-   <h1 align="center"> Workspace Spec</h1>
-   <p align="center">
-  <img src="https://img.shields.io/badge/dell-laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  </p>
-  
-  <h1 align="center"> Design</h1>
-  <p align="center">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
-  </p>
-  
-  
-  <h1 align="center"> Education</h1>
-  <p align="center">
+ ## <img src="https://img.icons8.com/doodle/26/000000/money.png">Education
+ 
+  <p>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
   </p>
  
