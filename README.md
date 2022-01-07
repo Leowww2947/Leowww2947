@@ -8,29 +8,16 @@
 </div>
 
 
-### 📱 Contacts
+### 📱 About Me
 
-  <h1 align="center"> Contacts</h1>
-  <p align="center">
-   <a href="https://t.me/stravak"/>
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
-      </a>
-   </p>   
+  ---
+Contacts | ![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://t.me/stravak"></a>
+:--- | :---
+**Social Networks** | ![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![CODEPEN](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+**IDE** | ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-  
-  <h1 align="center"> Social Networks</h1>
-  <p align="center">
-    <a href="https://www.instagram.com/leo_2003h" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <a href="https://www.tiktok.com/@stravak" />
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-   <a href="https://twitter.com/stravakht" />
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  <a href="https://codepen.io/stravak" />
-      <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-    </p>
-    </a>
-    
+
+ 
 ### 🔨 Technologies
 
 ---
@@ -41,17 +28,8 @@ Languages | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=fo
    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowww2947&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
 
-  ### 🔧 Tools
   
-  
-  ---
-Coding | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-:--- | :---
-**CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github&nbsp;actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%231B98BF.svg?style=for-the-badge&logo=docker&logoColor=white)
-**Hosting** | ![Fosshost](https://img.shields.io/badge/fosshost-%23f0f0f0.svg?style=for-the-badge&logo=vodafone&logoColor=FF0000) ![Rocky Linux](https://img.shields.io/badge/Rocky&nbsp;Linux-%2310B981.svg?style=for-the-badge&logo=rocky-linux&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-  
-  
   
   <h1 align="center"> Web Browsers</h1>
   <p align="center">
