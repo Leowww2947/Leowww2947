@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
   </p>
  
+![Sttravak](https://user-images.githubusercontent.com/89705306/148451088-9218ac52-0d2e-4fe8-a533-fe268cc36614.png)
   
 <!--
 **Leowww2947/Leowww2947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
